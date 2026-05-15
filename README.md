@@ -15,7 +15,9 @@ Si la entrada es correcta, muestra:
 La gramática está definida con ANTLR4 y el programa corre en Node.js.
 
 ----------------------------------------------------------------------------------------
-
+# Instalación
+Clona este repositorio: git clone https://github.com/Quasar4b/53442
+----------------------------------------------------------------------------------------
 # Cómo ejecutar
 
 node index.js (en la terminal)
