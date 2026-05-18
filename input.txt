@@ -1,8 +1,1 @@
-x = 2 + 3
-y = 3
-z = x + y
-z
-
-
-
-
+AA123 JFK-LAX 15:30, DELAYED, B12
