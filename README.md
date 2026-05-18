@@ -5,12 +5,13 @@ Juan Francisco Olivieri
 
 # Qué hace este proyecto
 
-Es un analizador que lee descripciones de vuelos y verifica si están bien escritas.  
+Es un analizador que lee descripciones de tableros de datos y verifica si están bien escritas.  
 Si la entrada es correcta, muestra:
 
 - Una tabla con los tokens reconocidos
 - El árbol de análisis sintáctico
-- Una interpretación del vuelo (origen, destino, hora, estado, puerta)
+- Una interpretación del tablero (fuentes, métricas, gráficos, filtros y alertas)
+- Código JavaScript generado a partir de la definición del tablero
 
 La gramática está definida con ANTLR4 y el programa corre en Node.js.
 
