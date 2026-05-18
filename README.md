@@ -21,7 +21,9 @@ La gramática está definida con ANTLR4 y el programa corre en Node.js.
 Para la instalación del repositorio se deberan ejecutar los siguientes comandos en cmd
 
 Clona este repositorio: git clone https://github.com/Quasar4b/53442
+
 Apuntamos a la dirección del archivo clonado: cd C:\Users\USUARIO\53442\Aeropuerto //deberás cambiar USUARIO por tu nombre de usuario de Windows
+
 Abrir VS Code desde la dirección preseleccionada: code . 
 
 ----------------------------------------------------------------------------------------
